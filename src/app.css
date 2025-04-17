@@ -1,3 +1,11 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
-@plugin '@daisyui'
+@plugin 'daisyui';
+
+.section {
+	display: flex;
+	height: 100vh;
+	width: 100vw;
+	align-items: center;
+	justify-content: center;
+}
