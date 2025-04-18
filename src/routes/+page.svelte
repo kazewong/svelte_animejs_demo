@@ -1,11 +1,9 @@
 <script>
-	import { animate, utils, onScroll } from 'animejs';
+	import { animate, utils, onScroll, ScrollObserver } from 'animejs';
 	import { onMount } from 'svelte';
 
 
-
 	onMount(() => {
-
 
 	});
 </script>
